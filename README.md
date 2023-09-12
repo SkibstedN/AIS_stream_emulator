@@ -20,3 +20,5 @@ objektet og sendt med så man kan måle tiden det tager før dataen når frem ti
 destinationen.
 
 
+se aktiviteten i consollerne
+
